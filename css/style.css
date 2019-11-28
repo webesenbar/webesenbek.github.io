@@ -1,0 +1,250 @@
+body {
+	background: radial-gradient(75% 25%, #fff, #338bbe);
+}
+
+.container {
+    background-image: url(img/cersanit.jpg);
+	position: absolute;
+	top: 100px;
+	left: 40%;
+	width: 50%;
+	max-width: 1024px; 
+	height: 70%;
+	padding: 0 15px;
+	margin: 0 auto;
+	border-radius: 40px;
+
+}
+
+.content {
+	background-image: url(img/cersanit.jpg);
+	position: absolute;
+	top: 180px;
+	left: 9%;
+	width: 27%;
+	max-width: 1024px; 
+	height: 40%;
+	padding: 0 15px;
+	margin: 0 auto;
+	border-radius: 40px;
+
+}
+
+.text {
+	top: 14%;
+	position: absolute;
+	left: 16%;
+	font-family: "Calistoga";
+	color: #fff;
+
+}
+
+.text2 {
+	top: 94.5px;
+	position: absolute;
+	left: 25%;
+	font-family: "Quicksand";
+	color: #d6d6d6;
+}
+
+.liv {
+	position: absolute;
+	background-image: url(img/22.jpg);
+	top:70px;
+	left: 49%;
+	width: 40%;
+	max-width: 1024px; 
+	height: 50%;
+	padding: 0 15px;
+	margin: 0 auto;
+	border-radius: 35px;
+	box-shadow: -1px -1px;
+}
+
+a {
+	position: absolute;
+	text-decoration: none;
+	color: #000;
+	left: 17%;
+	font-size: 20px;
+	font-family: "Quicksand";
+} 
+
+a:hover {
+	color: #fff;
+	
+}
+
+.main {
+	position: absolute;
+	background-image: url(img/22.jpg);
+	top:30px;
+	left: 5%;
+	width: 85%;
+	max-width: 1024px; 
+	height: 10%;
+	padding: 0 15px;
+	margin: 0 auto;
+	border-radius: 35px;
+}
+
+button.knopka {
+	position: absolute;
+	width: 37%;
+	left: 1px;
+	height: 100%;
+	color: #fff; 
+	background: #00BFFF; 
+	padding: 5px; 
+	border-radius: 35px;
+	border: 2px solid #1E90FF;
+	font-family:  "Calistoga";
+	font-size: 18px;
+	} 
+	button.knopka:hover { 
+	background: #FF6347; 
+	}
+}
+
+button.knopka1 {
+	position: absolute;
+	width: 40%;
+	left: 100px;
+	height: 50%;
+	color: #fff; 
+	background: #00BFFF; 
+	padding: 5px; 
+	border-radius: 35px;
+	border: 2px solid #1E90FF;
+	font-family:  "Calistoga";
+	font-size: 18px;
+	} 
+	button.knopka1:hover { 
+	background: #FF6347; 
+	}
+
+a.button {
+  top: 24%;
+  left: 40%;
+  background: #fff;
+  color: #000;
+  padding: 5.5px;
+  width: 16%;
+  border-radius: 10px;
+  font-family: "Quicksand";
+  font-size: 13px;
+  line-height: 1;
+  font-weight: 100;
+}
+
+a.button:hover {
+	background: #FF6347; 
+}
+
+a.button2 {
+  top: 24%;
+  left: 60%;
+  background: #fff;
+  color: #000;
+  padding: 5.5px;
+  width: 16%;
+  border-radius: 10px;
+  font-family: "Quicksand";
+  font-size: 13px;
+  line-height: 1;
+  font-weight: 100;
+}
+a.button2:hover {
+	background: #FF6347; 
+}
+
+a.button3 {
+  top: 24%;
+  left: 80%;
+  background: #fff;
+  color: #000;
+  padding: 5.5px;
+  width: 16%;
+  border-radius: 10px;
+  font-family: "Quicksand";
+  font-size: 13px;
+  line-height: 1;
+  font-weight: 100;
+}
+
+a.button3:hover {
+	background: #FF6347; 
+}
+
+a.button:hover {
+	background: #FF6347; 
+}
+.web {
+	position: absolute;
+	left: 50px;
+	top: 20%;
+}
+
+.w {
+	position: absolute;
+	left: 210px;
+	top: 20%;
+}
+
+.ww {
+	position: absolute;
+	left: 375px;
+	top: 20%;
+}
+
+.wwww {
+	position: absolute;
+	left: 375px;
+	top: 55%;
+}
+
+.www {
+	position: absolute;
+	left: 210px;
+	top: 55%;
+}
+
+.d {
+	position: absolute;
+	left: 50px;
+	top: 55%;
+}
+
+.nav {
+	position: absolute;
+	background-image: url(img/22.jpg);
+	top: 23%;
+	left: 5.5%;
+	width: 82%;
+	max-width: 1024px; 
+	height: 68%;
+	padding: 0 15px;
+	margin: 0 auto;
+	border-radius: 35px;
+	 border: 3px dotted;
+}
+
+button.knopkaa {
+	position: absolute;
+	top: 43%;
+	width: 12%;
+	left: 82%;
+	height: 24%;
+	color: #fff; 
+	background: #00BFFF; 
+	padding: 5px; 
+	border-radius: 100%;
+	border: 2px solid #1E90FF;
+	font-family:  "Calistoga";
+	font-size: 18px;
+	} ]\
+
+	button.knopkaa:hover { 
+	background: #FF6347; 
+	}
+}
